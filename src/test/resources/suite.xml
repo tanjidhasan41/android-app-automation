@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Calculator Automation">
+    <test name="Calculator Automation">
+        <classes>
+            <class name="testrunner.CalculatorTestRunner"></class>
+        </classes>
+    </test>
+    <test name="Series Data Automation">
+        <classes>
+            <class name="testrunner.SeriesDataSetTestRunner"></class>
+        </classes>
+    </test>
+</suite>
